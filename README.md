@@ -1,14 +1,16 @@
-# Coding Interview Mini-Project: ToDo Liste Frontend mit Vue + Tanstack
+# Coding Interview Mini-Project: ToDo List Frontend with Vue + Tanstack
 
-Moin! Als Testaufgabe wirst du eine ToDo App in unserem Tech Stack bauen.
-Das Grundlayout dafür findest du [hier bei Figma](https://www.figma.com/file/6AanWQBI0Xr50RorsHPHS3/Coding-Interview-Project-TODO-Design-file?type=design&node-id=0%3A1&mode=design&t=hCEwrNy2O0Lavetc-1).
-Anforderungen:
-- [ ] Als User muss man ein Todo speichern können 
-- [ ] Die Todos sind auch nach dem Löschen des Caches noch da 
-- [ ] Man kann einzelne oder alle Todos löschen 
-- [ ] Man kann Todos als erledigt/unerledigt markieren
+Hi! To test your skills and workflow, you'll build a todo list app in our tech stack.
+You'll have to replicate the layout from [this figma file](https://www.figma.com/file/6AanWQBI0Xr50RorsHPHS3/Coding-Interview-Project-TODO-Design-file?type=design&node-id=0%3A1&mode=design&t=hCEwrNy2O0Lavetc-1).
 
-Uns geht es nicht darum, dass du möglichst schnell das Projekt fertig machst. Wir wollen sehen, wie du mit uns arbeitest und auf welchem Niveau du codest. Es ist nicht schlimm, uns bei etwas zu fragen- ganz im Gegenteil. Bei unserer täglichen Zusammenarbeit ist es wichtig, das wir unkompliziert miteinander kommunizieren können. Du darfst alle Hilfsmittel benutzen, die du möchtest- Youtube, StackOverflow, ChatGPT. Das einzige was zählt, ist das Ergebnis.
+Requirements:
+- [ ] As a user, I want to save my todos 
+- [ ] As a user, I want my todos to be persisted, so that they will still be there after deleting my browser cache 
+- [ ] As a user, I want to be able to delete a single todo or all of them at once 
+- [ ] As a user, I want to mark todos as finished/unfinished
+
+This test project is not about getting it done as quick as possible or flexing on us with sophisticated algorithms. We want to see, how you work, what your code looks like and how you tackle problems. Feel free to ask questions! You will have to be able to communicate with us, so we can effectively work together. 
+You're allowed to use any resource, as if you were actually coding- chatgpt, youtube, stackoverflow, whatever floats your boat. The result is the only thing that matters to us!
 
 ## Project Setup
 
