@@ -1,0 +1,15 @@
+{
+  "title": "TODO",
+  "delete": "Löschen",
+  "cancel": "Abbrechen",
+  "noTasksText": "Was möchtest du heute tun?",
+  "taskInput": {
+    "label": "Neue Task..."
+  },
+  "taskList": {
+    "deleteAll": "Alle löschen",
+    "open": "Offen",
+    "completed": "Abgeschlossen",
+    "deleteModalText": "Bist du sicher, dass du alle Tasks löschen möchtest?"
+  }
+}

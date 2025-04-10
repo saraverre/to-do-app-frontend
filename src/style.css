@@ -251,3 +251,15 @@
     --sw-dark-border: 66, 66, 66;
     --sw-dark-line: 33, 33, 33;
 }
+
+.cursor-pointer {
+    cursor: pointer;
+  }
+
+.bg-dark-grey-custom {
+    background-color:  #121212;
+}
+
+.noTaskDiv {
+    max-width: 600px;
+}
